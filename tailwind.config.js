@@ -12,7 +12,7 @@ module.exports = {
       extend: {
         maxWidth: {
           '50p': '50%', // Custom utility for 50% max-width
-          '65p': '65%', // Custom utility for 75% max-width
+          '50p': '50%', // Custom utility for 75% max-width
         }
       }
     }
